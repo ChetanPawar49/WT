@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+    <book>
+        <book_name>JAVA</book_name>
+        <book_rate>250</book_rate>
+        <book_quantity>200</book_quantity>
+    </book>
+    <book>
+        <book_name>C</book_name>
+        <book_rate>500</book_rate>
+        <book_quantity>300</book_quantity>
+    </book>
+</bookstore>
